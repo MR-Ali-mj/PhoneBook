@@ -122,21 +122,6 @@ def Sumbit():
     print(object,object2)
 
 
-        
-
-
-            
-
-
-        
-
-
-'در اخر مقادیر خواسته شده را به دیکشنری یوسر وارد کن '
-'aquamarine'
-
-
-
-
 def Main():
     window = Tk()
     window.title('PhoneBook')
